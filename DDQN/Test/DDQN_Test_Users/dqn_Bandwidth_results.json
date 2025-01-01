@@ -1,0 +1,22 @@
+[
+    {
+        "num_users": 10,
+        "avg_delay": 20
+    },
+    {
+        "num_users": 15,
+        "avg_delay": 20
+    },
+    {
+        "num_users": 20,
+        "avg_delay": 20
+    },
+    {
+        "num_users": 25,
+        "avg_delay": 20
+    },
+    {
+        "num_users": 30,
+        "avg_delay": 20
+    }
+]

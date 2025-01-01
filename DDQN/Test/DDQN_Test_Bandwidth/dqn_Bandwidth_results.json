@@ -1,0 +1,22 @@
+[
+    {
+        "bandwidth": 2.5,
+        "avg_delay": 20
+    },
+    {
+        "bandwidth": 5,
+        "avg_delay": 20
+    },
+    {
+        "bandwidth": 7.5,
+        "avg_delay": 20
+    },
+    {
+        "bandwidth": 10,
+        "avg_delay": 20
+    },
+    {
+        "bandwidth": 15,
+        "avg_delay": 20
+    }
+]

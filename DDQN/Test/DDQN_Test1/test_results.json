@@ -1,0 +1,106 @@
+{
+    "0": [
+        {
+            "E_max": 1.5,
+            "total_delay": 22.3
+        },
+        {
+            "E_max": 2,
+            "total_delay": 22.1
+        },
+        {
+            "E_max": 2.5,
+            "total_delay": 21.8
+        },
+        {
+            "E_max": 3,
+            "total_delay": 21.4
+        },
+        {
+            "E_max": 3.5,
+            "total_delay": 20.8
+        },
+        {
+            "E_max": 4,
+            "total_delay": 20.6
+        }
+    ],
+    "20": [
+        {
+            "E_max": 1.5,
+            "total_delay": 21.5
+        },
+        {
+            "E_max": 2,
+            "total_delay": 21.1
+        },
+        {
+            "E_max": 2.5,
+            "total_delay": 20.8
+        },
+        {
+            "E_max": 3,
+            "total_delay": 20.3
+        },
+        {
+            "E_max": 3.5,
+            "total_delay": 20.1
+        },
+        {
+            "E_max": 4,
+            "total_delay": 19.5
+        }
+    ],
+    "40": [
+        {
+            "E_max": 1.5,
+            "total_delay": 19.8
+        },
+        {
+            "E_max": 2,
+            "total_delay": 19.5
+        },
+        {
+            "E_max": 2.5,
+            "total_delay": 19.1
+        },
+        {
+            "E_max": 3,
+            "total_delay": 18.5
+        },
+        {
+            "E_max": 3.5,
+            "total_delay": 18.30
+        },
+        {
+            "E_max": 4,
+            "total_delay": 17.9
+        }
+    ],
+    "60": [
+        {
+            "E_max": 1.5,
+            "total_delay": 18.5
+        },
+        {
+            "E_max": 2,
+            "total_delay": 17.6
+        },
+        {
+            "E_max": 2.5,
+            "total_delay": 17.3
+        },
+        {
+            "E_max": 3,
+            "total_delay": 16.85
+        },
+        {
+            "E_max": 3.5,
+            "total_delay": 16.6
+        },
+        {
+            "E_max": 4,
+            "total_delay": 16.25
+        }
+    ]
+}

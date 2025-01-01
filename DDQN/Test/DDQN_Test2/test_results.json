@@ -1,0 +1,62 @@
+[
+    {
+        "F_max_es": 30,
+        "f_dev": 0.0,
+        "delay": 16.5,
+        "alpha": 0.751
+    },
+    {
+        "F_max_es": 32,
+        "f_dev": 0.0,
+        "delay": 15.45,
+        "alpha": 0.762
+    },
+    {
+        "F_max_es": 34,
+        "f_dev": 0.0,
+        "delay": 15.2,
+        "alpha": 0.767
+    },
+    {
+        "F_max_es": 36,
+        "f_dev": 0.0,
+        "delay": 14.7,
+        "alpha": 0.790
+    },
+    {
+        "F_max_es": 38,
+        "f_dev": 0.0,
+        "delay": 14.1,
+        "alpha": 0.805
+    },
+    {
+        "F_max_es": 30,
+        "f_dev": 0.02,
+        "delay": 16.8,
+        "alpha": 0.751
+    },
+    {
+        "F_max_es": 32,
+        "f_dev": 0.02,
+        "delay": 16.1,
+        "alpha": 0.762
+    },
+    {
+        "F_max_es": 34,
+        "f_dev": 0.02,
+        "delay": 15.45,
+        "alpha": 0.767
+    },
+    {
+        "F_max_es": 36,
+        "f_dev": 0.02,
+        "delay": 15.05,
+        "alpha": 0.790
+    },
+    {
+        "F_max_es": 38,
+        "f_dev": 0.02,
+        "delay": 14.5,
+        "alpha": 0.805
+    }
+]
